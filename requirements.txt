@@ -33,7 +33,6 @@ Flask-SQLAlchemy==2.5.1
 Flask-WTF==1.0.1
 fonttools==4.34.4
 gunicorn==20.1.0
-heroku==0.1.4
 heroku3==5.1.4
 idna==3.3
 iniconfig==1.1.1
